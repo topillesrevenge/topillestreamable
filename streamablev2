@@ -16,7 +16,7 @@ print("sucesfullyloaded")
                             local DaHoodSettings = {
                                 SilentAim = true,
                                 AimLock = false,
-                                Prediction = 0.1219145,
+                                Prediction = 0.129145,
                                 AimLockKeybind = Enum.KeyCode.E
                             }
                             getgenv().DaHoodSettings = DaHoodSettings
