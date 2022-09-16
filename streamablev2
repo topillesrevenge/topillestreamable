@@ -67,7 +67,7 @@ local mouse = player:GetMouse()
 
 mouse.KeyDown:Connect(function(key)
 
-    if key == "k" then
+    if key == "v" then
         
 
 
